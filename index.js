@@ -1,5 +1,5 @@
-function ShowMessage(name, height, country) {
+function ShowOutput(name, height, country) {
     alert("Name: " + name + ", Height: " + height + ", Country: " + country);
 }
 
-ShowMessage("Candice Bell", "5ft", "Japan");
+ShowOutput("Candice Bell", "5ft", "Japan");
